@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiahua (佳华).
-- 👀 I’m interested in using reflected Global Navigation Satellite System signals (GNSS-R) to monitor changes in permafrost areas.
+- 👀 I’m interested in using reflected Global Navigation Satellite System signals (GNSS-R) to monitor permafrost areas.
 - 🌱 I’m currently learning to process raw GNSS-R data.
 - 💞️ I’m looking to collaborate on GNSS-R related projects.
 - 📫 Reach me by zhangjiahua@link.cuhk.edu.hk
